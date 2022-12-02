@@ -10,5 +10,4 @@ public class StaticExample {
         return a - b;
     }
 
-
 }

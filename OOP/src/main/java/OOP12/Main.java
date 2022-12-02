@@ -15,8 +15,8 @@ public class Main {
         PlaneWithStatic.getNextId();
         System.out.println(PlaneWithStatic.nextId);
 
-        System.out.println(StaticExample.add(20,30));// moge sie odwołać po klasie ponieważ metoda jest statyczna
-        System.out.println(staticTest.sub(30,15)); // musze stworzyć obiekt danej klasy a następnie odowałć sie do metody za pomoca stworzonego obiektu
+        System.out.println(StaticExample.add(20, 30));// moge sie odwołać po klasie ponieważ metoda jest statyczna
+        System.out.println(staticTest.sub(30, 15)); // musze stworzyć obiekt danej klasy a następnie odowałć sie do metody za pomoca stworzonego obiektu
 
 
     }
